@@ -1,5 +1,5 @@
-pyC45
-=====
+pyC45 for Python3
+=================
 
 pyC45 is a super light C4.5 decision tree package for python which 
 contains only one file “pyC45.py”. It provides the user a simple and 
@@ -8,3 +8,6 @@ or classifications. The trained decision tree is saved as an XML file so that
 it can be read and easily understood. C4.5 is one of the most popular algorithms 
 in Data Mining and Machine Learning as the so called “Big Data Era” is coming. 
 It is developed by 张驰昱 in Tsinghua University, in winter, 2013. 
+
+This version is a fork of pyC45 https://github.com/zhangchiyu10/pyC45 but
+updated to run on Python3
