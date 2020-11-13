@@ -213,3 +213,6 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#Notebook Checkpoints
+.ipynb_checkpoints
